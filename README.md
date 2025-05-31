@@ -185,7 +185,7 @@ Custom Features Defined:
 
 ```
 📁 Project Structure
-├── novel_analyzer.py          # Main Streamlit application
+├── Graph_RAG_LiamaIndex_LLM_app.py          # Main Streamlit application
 ├── requirements.txt           # Python dependencies
 ├── README.md                 # Project documentation
 ├── docs/                     # Documentation and examples
@@ -314,7 +314,7 @@ If you use this tool in academic research, please cite:
   title={Novel Knowledge Graph Analyzer: AI-Powered Literary Analysis Tool},
   author={jiyang Jiang},
   year={2025},
-  url={https://github.com/yourusername/novel-knowledge-graph-analyzer}
+  url={https://github.com/jjyjoy1/GraphRAG_LLM}
 }
 ```
 
